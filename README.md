@@ -3,7 +3,7 @@ BYOL (Bootstrap Your Own Latent) was used for Eyes problem (opened\closed classi
 
 ## Umap projection of embeddings
 each dot is unique embedding for eye image from dataset. Red dots is opened eyes, blue - closed, and green - unknown.
-<img src='my_sCNN.png' align="left" width=400>
+<img src='my_sCNN.png' width=700>
 
 ## Results
 Achieved accuracy is 88%
