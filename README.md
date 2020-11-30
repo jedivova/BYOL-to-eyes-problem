@@ -10,9 +10,9 @@ each dot is unique embedding for eye image from dataset. Red dots is opened eyes
 Achieved accuracy is 88%
 
 ## Files
-<b>Eye_task.ipynb</b> - Jupyter Notebook (training loop and etc.)
-<b>Estimator.py</b> - Estimator class
-<b>clusters.npy</b> - opened\closed eyes clusters
-<b>traced_cnn.zip</b> PyTorch Jit Trace for trained NN
-<b>sCNN_BYOL.pt</b> - NN weights
-<b>task.txt</b> - task description
+<li><b>Eye_task.ipynb</b> - Jupyter Notebook (training loop and etc.)</li>
+<li><b>Estimator.py</b> - Estimator class</li>
+<li><b>clusters.npy</b> - opened\closed eyes clusters</li>
+<li><b>traced_cnn.zip</b> PyTorch Jit Trace for trained NN</li>
+<li><b>sCNN_BYOL.pt</b> - NN weights</li>
+<li><b>task.txt</b> - task description</li>
